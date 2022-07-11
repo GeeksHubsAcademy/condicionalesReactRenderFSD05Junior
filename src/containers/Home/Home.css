@@ -1,0 +1,10 @@
+
+
+.designBoton {
+    height: 2em;
+    width: 20em;
+
+    background-color: indigo;
+    color: white;
+    font-weight: bold;
+}
